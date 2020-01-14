@@ -1,16 +1,1036 @@
 jornada;partido;equipo_local;marcador_local;equipo_visitante;marcador_visitante;resultado
-1;1;Celta;1;Espanyol;1;X
-1;2;Villarreal;1;Real Sociedad;2;2
+2;1;Alavés;0;Betis;0;X
+2;2;Valladolid;0;Barcelona;1;2
+2;3;Espanyol;2;Valencia;0;1
+2;5;Girona;1;Real Madrid;4;2
+2;7;Athletic de Bilbao;2;Huesca;2;X
+2;8;Reus Deport.;0;R. Zaragoza;0;X
+2;4;Sevilla;0;Villarreal;0;X
+2;11;Córdoba;2;R. Oviedo;4;2
+2;10;Las Palmas;1;Albacete;1;X
+2;12;Sporting de Gijón;2;C. Gimnastic;0;1
+2;13;Granada;1;Lugo;1;X
+2;14;Almería;1;Tenerife;1;X
+2;15;Atlético de Madrid;1;Rayo Vallecano;0;10
+2;6;Levante;1;Celta;2;2
+2;9;Numancia;1;Cádiz;1;X
 1;3;Barcelona;2;Alavés;0;1
+1;2;Villarreal;1;Real Sociedad;2;2
+1;1;Celta;1;Espanyol;1;X
 1;5;Rayo Vallecano;1;Sevilla;4;2
-1;6;Valencia;1;Atlético de Madrid;1;X
-1;4;Eibar;1;Huesca;2;2
 1;7;Athletic de Bilbao;2;Leganés;1;1
-1;8;Lugo;1;Málaga;2;2
 1;9;Elche;0;Granada;0;X
+1;8;Lugo;1;Málaga;2;2
+1;4;Eibar;1;Huesca;2;2
 1;10;Alcorcón;1;Sporting de Gijón;1;X
+1;6;Valencia;1;Atlético de Madrid;1;X
 1;11;R. Oviedo;1;Extremadura;1;X
-1;12;Mallorca;1;Osasuna;0;1
 1;13;R. Zaragoza;2;Rayo Majadahonda;1;1
-1;14;Las Palmas;2;Reus Deport.;0;1
 1;15;Real Madrid;2;Getafe;0;20
+1;12;Mallorca;1;Osasuna;0;1
+1;14;Las Palmas;2;Reus Deport.;0;1
+18;1;Leganés;1;Atlético de Madrid;1;X
+18;2;Valencia;0;Girona;1;2
+18;3;Rayo Vallecano;2;Barcelona;3;2
+18;5;Villarreal;1;Levante;1;X
+18;4;Eibar;2;Alavés;1;1
+18;7;Real Sociedad;0;Sevilla;0;X
+18;6;Huesca;1;Getafe;1;X
+18;9;Osasuna;2;Málaga;1;1
+18;10;Las Palmas;1;Deportivo;1;X
+18;12;R. Oviedo;1;Mallorca;1;X
+18;13;Almería;2;Sporting de Gijón;1;1
+18;14;R. Zaragoza;0;Granada;2;2
+18;15;Real Madrid;2;Valladolid;0;20
+19;1;Estrella Roja;2;Liverpool;0;1
+19;2;Mónaco;0;Club Brugge;4;2
+19;3;Atlético de Madrid;2;B. Dortmund;0;1
+19;4;Inter;1;Barcelona;1;X
+19;5;Nápoles;1;PSG;1;X
+19;6;Schalke;2;Galatasaray;0;1
+18;8;Betis;3;Celta;3;X
+19;7;Tottenham;2;PSV;1;1
+19;8;Valencia;3;Young Boys;1;1
+19;10;Bayern M.;2;AEK Atenas;0;1
+19;11;Benfica;1;Ajax;1;X
+19;12;Juventus;1;Manchester City;2;2
+19;13;Lyon;2;Hoffenheim;2;X
+19;14;Manchester City;6;Shakhtar;0;1
+19;15;Viktoria Plzen;0;Real Madrid;5;0M
+25;1;Valencia;1;Ebro;0;1
+19;9;CSKA Moscú;1;Roma;2;2
+25;3;Rayo Vallecano;0;Leganés;1;2
+25;2;Getafe;5;Córdoba;1;1
+25;5;Atlético de Madrid;4;Sant Andreu;0;1
+25;4;Espanyol;1;Cádiz;0;1
+25;6;Girona;2;Alavés;1;1
+25;7;Real Sociedad;2;Celta;0;1
+25;9;Valladolid;2;Mallorca;1;1
+25;8;Villarreal;8;Almería;0;1
+25;10;Levante;2;Lugo;0;1
+25;11;Real Madrid;6;Melilla;1;1
+25;12;Eibar;2;Sporting de Gijón;2;X
+25;13;Huesca;0;Athletic de Bilbao;4;2
+18;11;Cádiz;5;Elche;1;1
+25;14;Betis;4;Racing Ferrol;0;1
+14;2;Villarreal;1;Atlético de Madrid;1;X
+14;3;Barcelona;4;Sevilla;2;1
+25;15;Barcelona;4;Cultural Leonesa;1;M1
+14;5;Eibar;1;Athletic de Bilbao;1;X
+14;1;Valencia;1;Leganés;1;X
+14;4;Rayo Vallecano;1;Getafe;2;2
+14;8;R. Oviedo;2;Osasuna;1;1
+14;9;Las Palmas;3;Numancia;0;1
+14;6;Huesca;0;Espanyol;2;2
+14;7;Betis;0;Valladolid;1;2
+14;11;Córdoba;1;Deportivo;1;X
+14;12;Lugo;1;C. Gimnastic;0;1
+14;13;R. Zaragoza;1;Tenerife;1;X
+14;14;Cádiz;0;Sporting de Gijón;0;X
+14;10;Alcorcón;1;Granada;0;1
+14;15;Real Madrid;1;Levante;2;12
+8;2;Real Sociedad;2;Rayo Vallecano;2;X
+8;4;Athletic de Bilbao;0;Villarreal;3;2
+8;3;Atlético de Madrid;3;Huesca;0;1
+8;5;Leganés;2;Barcelona;1;1
+8;6;Sevilla;3;Real Madrid;0;1
+8;8;Alavés;1;Getafe;1;X
+8;1;Espanyol;1;Eibar;0;1
+8;9;Valladolid;2;Levante;1;1
+8;10;Girona;0;Betis;1;2
+8;7;Valencia;1;Celta;1;X
+8;11;Friburgo;1;Schalke;0;1
+8;13;B. Dortmund;7;Nuremberg;0;1
+8;12;F. Dusseldorf;1;Bayer Leverkusen;2;2
+6;1;Inter;2;Tottenham;1;1
+8;14;Leipzig;2;Stuttgart;0;1
+8;15;Bayern M.;1;Augsburgo;1;11
+6;2;Club Brugge;0;B. Dortmund;1;2
+6;3;Mónaco;1;Atlético de Madrid;2;2
+6;5;Liverpool;3;PSG;2;1
+6;4;Estrella Roja;0;Nápoles;0;X
+6;7;Ajax;3;AEK Atenas;0;1
+6;8;Shakhtar;2;Hoffenheim;2;X
+6;10;Manchester City;1;Lyon;2;2
+6;11;Real Madrid;3;Roma;0;1
+6;9;Benfica;0;Bayern M.;2;2
+6;12;Viktoria Plzen;2;CSKA Moscú;2;X
+6;14;Young Boys;0;Manchester U.;3;2
+6;6;Schalke;1;Porto;1;X
+6;13;Valencia;0;Juventus;2;2
+6;15;Barcelona;4;PSV;0;M0
+20;1;Valladolid;0;Eibar;0;X
+20;3;Atlético de Madrid;3;Athletic de Bilbao;2;1
+20;5;Alavés;2;Huesca;1;1
+20;4;Girona;0;Leganés;0;X
+20;6;Rayo Vallecano;2;Villarreal;2;X
+20;8;Celta;2;Real Madrid;4;2
+20;2;Getafe;0;Valencia;1;2
+20;7;Sevilla;2;Espanyol;1;1
+20;9;Extremadura;2;Osasuna;3;2
+20;12;Rayo Majadahonda;2;Almería;0;1
+20;10;Deportivo;4;R. Oviedo;0;1
+20;14;Tenerife;0;Albacete;0;X
+20;13;Sporting de Gijón;2;Málaga;2;X
+16;1;Girona;2;Rayo Vallecano;1;1
+20;11;Elche;0;Las Palmas;0;X
+16;2;Athletic de Bilbao;0;Valencia;0;X
+16;4;Levante;2;Leganés;0;1
+20;15;Barcelona;3;Betis;4;MM
+16;5;Atlético de Madrid;2;Real Sociedad;0;1
+16;3;Celta;4;Eibar;0;1
+16;6;Getafe;2;Betis;0;1
+16;8;Sevilla;2;Huesca;1;1
+16;9;Granada;1;Almería;0;1
+16;10;Mallorca;2;Las Palmas;2;X
+16;12;Lugo;1;Cádiz;2;2
+16;11;Tenerife;3;Alcorcón;2;1
+16;13;C. Gimnastic;2;R. Oviedo;1;1
+16;14;Elche;2;R. Zaragoza;0;1
+16;15;Barcelona;5;Real Madrid;1;M1
+11;2;Getafe;0;Levante;1;2
+16;7;Alavés;2;Villarreal;1;1
+11;3;Leganés;1;Rayo Vallecano;0;1
+11;5;Atlético de Madrid;1;Betis;0;1
+11;4;Valladolid;1;Huesca;0;1
+11;7;Espanyol;3;Villarreal;1;1
+11;8;Valencia;1;Barcelona;1;X
+11;1;Girona;2;Eibar;3;2
+11;6;Sevilla;2;Celta;1;1
+11;10;Las Palmas;0;Alcorcón;0;X
+11;11;R. Oviedo;1;Albacete;0;1
+11;12;Elche;2;Lugo;1;1
+11;9;Córdoba;1;Almería;0;1
+11;14;Cádiz;1;C. Gimnastic;1;X
+11;13;Deportivo;1;Málaga;1;X
+11;15;Alavés;1;Real Madrid;0;10
+13;1;Elche;1;Córdoba;4;2
+13;2;Multivera;1;Villanovense;3;2
+13;3;Sant Andreu;1;Calahorra;0;1
+13;5;Melilla;2;Ontinyent;0;1
+13;6;Racing;1;UD Logroñés;0;1
+13;7;Lorca;0;Cultural Leonesa;3;2
+13;8;Lugo;1;Alcorcón;0;1
+13;9;R. Zaragoza;0;Cádiz;1;2
+13;10;Rayo Majadahonda;1;Sporting de Gijón;1;X
+13;12;Ucrania;1;Repub. Checa;0;1
+13;11;Almería;3;Reus Deport.;1;1
+13;13;Irlanda;0;Gales;1;2
+13;4;Ebro;2;Lleida;1;1
+13;15;Francia;2;Alemania;1;21
+26;1;Atlético de Madrid;3;Alavés;0;1
+26;3;Villarreal;2;Celta;3;2
+13;14;Noruega;1;Bulgaria;0;1
+26;4;Espanyol;0;Barcelona;4;2
+26;6;Real Sociedad;1;Valladolid;2;2
+26;7;Betis;2;Rayo Vallecano;0;1
+26;8;Albacete;2;Osasuna;2;X
+26;2;Valencia;1;Sevilla;1;X
+26;10;R. Oviedo;1;Almería;2;2
+26;9;Mallorca;1;Málaga;2;2
+26;11;Alcorcón;0;Reus Deport.;1;2
+26;12;Cádiz;1;Rayo Majadahonda;0;1
+26;13;Elche;0;Sporting de Gijón;0;X
+26;15;Huesca;0;Real Madrid;1;01
+26;5;Eibar;4;Levante;4;X
+26;14;Lugo;4;Las Palmas;2;1
+23;2;Bayern M.;5;Benfica;1;1
+23;3;Lyon;2;Manchester City;2;X
+23;5;Roma;0;Real Madrid;2;2
+23;4;Hoffenheim;2;Shakhtar;3;2
+23;6;Juventus;1;Valencia;0;1
+23;7;Manchester City;1;Young Boys;0;1
+23;9;B. Dortmund;0;Club Brugge;0;X
+23;8;Lokomotiv M.;2;Galatasaray;0;1
+23;1;AEK Atenas;0;Ajax;2;2
+23;10;Tottenham;1;Inter;0;1
+23;12;Nápoles;3;Estrella Roja;1;1
+23;13;PSG;2;Liverpool;1;1
+23;14;Porto;3;Schalke;1;1
+23;15;Atlético de Madrid;2;Mónaco;0;20
+32;1;Valladolid;0;Rayo Vallecano;1;2
+32;3;Huesca;2;Betis;1;1
+32;2;Alavés;2;Valencia;1;1
+32;5;Sevilla;1;Atlético de Madrid;1;X
+23;11;PSV;1;Barcelona;2;2
+32;4;Eibar;0;Villarreal;0;X
+32;6;Real Madrid;0;Real Sociedad;2;2
+32;8;Sporting de Gijón;1;R. Zaragoza;2;2
+32;7;Getafe;1;Barcelona;2;2
+32;10;Almería;2;Mallorca;0;1
+32;9;Extremadura;3;Alcorcón;0;1
+32;12;Osasuna;2;Cádiz;1;1
+32;13;C. Gimnastic;1;Córdoba;0;1
+32;14;Málaga;0;Reus Deport.;3;2
+32;11;Deportivo;0;Lugo;0;X
+32;15;Celta;1;Athletic de Bilbao;2;12
+7;2;Celta;3;Valladolid;3;X
+7;1;Rayo Vallecano;1;Alavés;5;2
+7;4;Getafe;0;Atlético de Madrid;2;2
+7;5;Real Madrid;1;Espanyol;0;1
+7;6;Levante;2;Sevilla;6;2
+7;7;Villarreal;0;Valencia;0;X
+7;8;Betis;2;Athletic de Bilbao;2;X
+7;9;Mallorca;1;Albacete;3;2
+7;10;R. Oviedo;1;Elche;1;X
+7;11;Las Palmas;1;Málaga;0;1
+7;3;Eibar;1;Leganés;0;1
+7;12;Reus Deport.;1;C. Gimnastic;1;X
+7;13;Numancia;0;Almería;2;2
+7;14;Cádiz;0;Alcorcón;2;2
+22;1;Eibar;3;Real Madrid;0;1
+22;3;Atlético de Madrid;0;Barcelona;0;X
+22;2;Huesca;2;Levante;2;X
+7;15;Barcelona;2;Girona;2;22
+22;5;Sevilla;1;Valladolid;0;1
+22;4;Athletic de Bilbao;1;Getafe;1;X
+22;7;Villarreal;2;Betis;1;1
+22;8;C. Gimnastic;2;Almería;2;X
+22;9;Deportivo;2;Osasuna;0;1
+22;10;Cádiz;3;Las Palmas;1;1
+22;11;Mallorca;1;Numancia;0;1
+22;12;Extremadura;1;Málaga;0;1
+22;14;Alcorcón;2;R. Zaragoza;0;1
+22;13;Elche;0;Albacete;1;2
+22;15;Valencia;3;Rayo Vallecano;0;M0
+28;2;Valladolid;2;Atlético de Madrid;3;2
+28;1;Getafe;1;Real Sociedad;0;1
+22;6;Espanyol;1;Girona;3;2
+28;4;Sevilla;2;Girona;0;1
+28;3;Eibar;1;Valencia;1;X
+28;6;Huesca;2;Villarreal;2;X
+28;5;Espanyol;1;Betis;3;2
+28;8;Granada;1;R. Oviedo;0;1
+28;7;Levante;0;Barcelona;5;2
+28;10;Sporting de Gijón;1;Mallorca;0;1
+28;12;Deportivo;3;R. Zaragoza;1;1
+28;9;Numancia;1;Albacete;2;2
+28;11;Osasuna;2;Alcorcón;1;1
+28;15;Real Madrid;1;Rayo Vallecano;0;10
+28;14;Almería;1;Lugo;1;X
+28;13;Las Palmas;1;Tenerife;1;X
+5;3;Athletic de Bilbao;1;Real Madrid;1;X
+5;2;Valencia;0;Betis;0;X
+5;1;Real Sociedad;1;Barcelona;2;2
+5;5;Espanyol;1;Levante;0;1
+5;4;Leganés;0;Villarreal;1;2
+5;6;Valladolid;0;Alavés;2;2
+5;8;Alcorcón;1;Deportivo;1;1
+5;9;Elche;0;Mallorca;2;X
+5;7;Sevilla;1;Getafe;0;2
+5;11;Almería;1;R. Zaragoza;2;1
+5;12;Extremadura;3;Las Palmas;0;2
+5;13;Granada;1;Rayo Majadahonda;1;1
+5;14;Sporting de Gijón;1;Numancia;1;X
+5;15;Atlético de Madrid;NaN;Eibar;NaN;11
+30;2;Crystal Palace;0;Cardiff City;0;X
+5;10;Lugo;2;R. Oviedo;1;2
+30;3;Leicester;2;Manchester City;1;1
+30;4;Manchester U.;3;Huddersfield;1;1
+30;6;Brighton;1;Arsenal;1;X
+30;5;Tottenham;5;Bournemouth;0;1
+30;7;Watford;1;Chelsea;2;2
+30;8;Atalanta;2;Juventus;2;X
+30;10;Cagliari;1;Genoa;0;1
+30;11;Fiorentina;0;Parma;1;2
+30;9;Bologna;0;Lazio;2;2
+30;1;Burnley;1;Everton;5;2
+30;13;Roma;3;Sassuolo;1;1
+30;14;Inter;1;Nápoles;0;1
+15;1;AEK Atenas;0;Bayern M.;2;2
+30;15;Liverpool;4;Newcastle;0;M0
+15;3;Ajax;1;Benfica;0;1
+15;2;Young Boys;1;Valencia;1;X
+15;5;Manchester U.;0;Juventus;1;2
+15;6;Roma;3;CSKA Moscú;0;1
+15;4;Hoffenheim;3;Lyon;3;X
+15;7;Shakhtar;0;Manchester City;3;2
+15;8;Club Brugge;1;Mónaco;1;X
+30;12;Spal;0;Udinese;0;X
+15;10;B. Dortmund;4;Atlético de Madrid;0;1
+15;12;Galatasaray;0;Schalke;0;X
+15;9;PSV;2;Tottenham;2;X
+15;11;Barcelona;2;Inter;0;1
+15;15;Real Madrid;2;Viktoria Plzen;1;21
+27;1;Galatasaray;2;Porto;3;2
+15;13;Liverpool;4;Estrella Roja;0;1
+27;2;Mónaco;0;B. Dortmund;2;2
+27;3;Brugge kV;0;Atlético de Madrid;0;X
+27;4;Inter;1;PSV;1;X
+15;14;PSG;2;Nápoles;2;X
+27;6;Estrella Roja;1;PSG;4;2
+27;8;Viktoria Plzen;2;Roma;1;1
+27;9;Benfica;1;AEK Atenas;0;1
+27;5;Barcelona;1;Tottenham;1;X
+27;11;Manchester City;2;Hoffenheim;1;1
+27;10;Ajax;3;Bayern M.;3;X
+27;7;Liverpool;1;Nápoles;0;1
+27;13;Valencia;2;Manchester City;1;1
+27;12;Shakhtar;1;Lyon;1;X
+27;15;Real Madrid;0;CSKA Moscú;3;0M
+24;2;Valladolid;2;Leganés;4;2
+27;14;Young Boys;2;Juventus;1;1
+24;3;Getafe;3;Espanyol;0;1
+24;4;Real Madrid;2;Valencia;0;1
+24;6;Girona;1;Atlético de Madrid;1;X
+24;5;Betis;1;Real Sociedad;0;1
+24;8;Córdoba;1;Elche;1;X
+24;1;Celta;2;Huesca;0;1
+24;9;Málaga;0;Granada;1;2
+24;10;Almería;1;Extremadura;1;X
+24;11;Sporting de Gijón;2;Tenerife;1;1
+24;13;Albacete;2;Alcorcón;1;1
+24;12;Rayo Majadahonda;0;Deportivo;0;X
+24;7;Alavés;1;Sevilla;1;X
+24;15;Barcelona;2;Villarreal;0;20
+29;2;Atlético de Madrid;1;Espanyol;0;1
+29;1;Betis;1;Eibar;1;X
+29;4;Valencia;2;Huesca;1;1
+29;3;Athletic de Bilbao;1;Valladolid;1;X
+29;6;Rayo Vallecano;2;Levante;1;1
+29;7;Lugo;0;Sporting de Gijón;0;X
+24;14;Las Palmas;0;R. Oviedo;0;X
+29;9;R. Zaragoza;2;Extremadura;1;1
+29;8;R. Oviedo;0;Málaga;0;X
+29;11;Córdoba;4;Las Palmas;1;1
+29;5;Leganés;1;Sevilla;1;X
+29;13;Reus Deport.;0;Osasuna;1;2
+29;12;Cádiz;3;Deportivo;0;1
+29;14;Albacete;1;Rayo Majadahonda;0;1
+29;15;Barcelona;2;Celta;0;20
+29;10;Elche;2;Almería;2;X
+31;2;Fulham;1;Huddersfield;0;1
+31;3;Leicester;0;Cardiff City;1;2
+31;4;Tottenham;1;Wolverhampton;3;2
+31;5;Watford;1;Newcastle;1;X
+31;7;Crystal Palace;0;Chelsea;1;2
+31;8;Burnley;2;West Ham;0;1
+31;9;Southampton;1;Manchester City;3;2
+31;10;Manchester City;4;Bournemouth;1;1
+31;6;Liverpool;5;Arsenal;1;1
+31;11;Empoli;0;Inter;1;2
+31;1;Brighton;1;Everton;0;1
+31;14;Milan;2;Spal;1;1
+31;12;Lazio;1;Torino;1;X
+31;15;Nápoles;3;Bologna;2;M2
+21;2;Reus Deport.;1;Extremadura;4;2
+21;3;R. Zaragoza;2;Mallorca;2;X
+21;4;R. Oviedo;2;Sporting de Gijón;1;1
+21;6;Córdoba;1;Cádiz;3;2
+21;5;Numancia;1;Rayo Majadahonda;2;2
+21;1;Osasuna;2;Tenerife;0;1
+21;8;Alcorcón;0;Elche;0;1
+21;7;Albacete;1;Lugo;0;1
+21;10;Italia;0;Portugal;0;X
+21;11;Albania;0;Escocia;4;2
+21;12;Inglaterra;2;Croacia;1;1
+21;13;Irlanda del Norte;1;Austria;2;2
+21;14;Suiza;5;Bélgica;2;1
+21;15;Málaga;2;C. Gimnastic;0;20
+4;1;Osasuna;3;Almería;1;1
+31;13;Parma;0;Roma;2;2
+4;2;R. Oviedo;0;R. Zaragoza;4;2
+21;9;Turquia;0;Suecia;1;2
+4;5;Extremadura;1;Granada;3;2
+4;6;Córdoba;0;Alcorcón;0;X
+4;7;Deportivo;1;Sporting de Gijón;0;1
+4;4;Numancia;1;Elche;0;1
+4;8;Ponferradina;1;Guijuelo;0;1
+4;10;Durango;1;Mirandés;4;2
+4;3;Reus Deport.;1;Albacete;2;2
+4;11;Racing Ferrol;4;Athletic de Bilbao;0;1
+4;13;CD Badajoz;NaN;Ucam Murcia;NaN;X
+4;9;Burgos;0;Salmantino;0;X
+4;15;Málaga;1;Tenerife;0;10
+17;1;Sant Andreu;0;Atlético de Madrid;1;2
+17;2;Cultural Leonesa;0;Barcelona;1;2
+17;3;Racing Ferrol;0;Betis;1;2
+17;4;Villanovense;0;Sevilla;0;X
+17;5;Mallorca;1;Valladolid;2;2
+17;6;Almería;3;Villarreal;3;X
+17;7;Cádiz;2;Espanyol;1;1
+17;8;Sporting de Gijón;2;Eibar;0;1
+17;9;Lugo;1;Levante;1;X
+17;10;Córdoba;1;Getafe;2;2
+17;11;Ebro;1;Valencia;2;2
+17;12;Alavés;2;Girona;2;X
+17;13;Leganés;2;Rayo Vallecano;2;X
+17;14;Celta;1;Real Sociedad;1;X
+4;14;Recreativo;0;Cartagena;0;X
+4;12;Badalona;0;Teruel;0;X
+17;15;Melilla;0;Real Madrid;4;0M
+10;1;Hoffenheim;1;Manchester City;2;2
+10;4;Bayern M.;1;Ajax;1;X
+10;3;AEK Atenas;2;Benfica;3;2
+10;5;Lyon;2;Shakhtar Soligorsk;2;X
+10;2;Juventus;3;Young Boys;0;1
+10;6;Roma;5;Viktoria Plzen;0;1
+10;8;Manchester City;0;Valencia;0;X
+10;10;Atlético de Madrid;3;Club Brugge;1;1
+10;7;CSKA Moscú;1;Real Madrid;0;1
+10;12;Tottenham;2;Barcelona;4;2
+10;11;PSV;1;Inter;2;2
+10;9;B. Dortmund;3;Mónaco;0;1
+10;13;Nápoles;1;Liverpool;0;1
+9;1;Real Sociedad;0;Valencia;1;2
+10;14;Porto;1;Galatasaray;0;1
+9;3;Real Madrid;0;Atlético de Madrid;0;X
+10;15;PSG;6;Estrella Roja;1;M1
+9;5;Villarreal;0;Valladolid;1;2
+9;6;Levante;2;Alavés;1;1
+9;7;Betis;1;Leganés;0;1
+9;4;Huesca;1;Girona;1;X
+9;8;Granada;4;Córdoba;2;1
+9;10;Tenerife;1;Cádiz;0;1
+9;9;Sporting de Gijón;1;Las Palmas;0;1
+9;2;Eibar;1;Sevilla;3;2
+9;12;Almería;2;Reus Deport.;0;1
+9;14;C. Gimnastic;1;Deportivo;3;2
+9;11;Alcorcón;2;R. Oviedo;0;1
+9;15;Barcelona;1;Athletic de Bilbao;1;11
+9;13;Extremadura;2;Elche;2;X
+3;2;Rayo Vallecano;1;Athletic de Bilbao;NaN;1
+3;4;Alavés;2;Espanyol;1;1
+3;5;Barcelona;8;Huesca;2;1
+3;7;Elche;0;Reus Deport.;2;2
+3;6;Betis;1;Sevilla;0;1
+3;8;R. Zaragoza;1;Las Palmas;1;X
+3;1;Celta;2;Atlético de Madrid;0;1
+3;3;Levante;2;Valencia;2;X
+3;10;Tenerife;2;Deportivo;2;X
+3;11;C. Gimnastic;0;Rayo Majadahonda;1;2
+3;12;Sporting de Gijón;2;Extremadura;0;1
+3;14;Albacete;3;Córdoba;0;1
+3;15;Real Madrid;4;Leganés;1;M1
+3;9;Cádiz;1;R. Oviedo;1;X
+3;13;Granada;2;Osasuna;0;1
+35;1;Sevilla;5;Levante;0;1
+35;2;Leganés;2;Eibar;2;X
+35;5;Girona;0;Barcelona;2;2
+35;3;Athletic de Bilbao;1;Betis;0;1
+35;6;Real Sociedad;0;Huesca;0;X
+35;7;Valencia;3;Villarreal;0;1
+35;8;Espanyol;2;Real Madrid;4;2
+35;4;Valladolid;2;Celta;1;1
+35;11;Granada;0;Extremadura;0;X
+35;9;Tenerife;0;Málaga;0;X
+35;12;Alcorcón;2;Córdoba;1;1
+35;14;C. Gimnastic;0;Las Palmas;0;X
+35;15;Atlético de Madrid;2;Getafe;0;20
+35;10;Cádiz;1;Mallorca;1;X
+33;2;Valencia;1;Valladolid;1;X
+33;1;Leganés;1;Huesca;0;1
+33;3;Girona;1;Alavés;1;X
+33;4;Villarreal;1;Getafe;2;2
+33;5;Atlético de Madrid;1;Levante;0;1
+35;13;Sporting de Gijón;1;Deportivo;2;2
+33;7;Betis;1;Real Madrid;2;2
+33;9;Las Palmas;4;Osasuna;1;1
+33;10;R. Oviedo;1;Tenerife;0;1
+33;8;Albacete;1;Sporting de Gijón;1;X
+33;12;Alcorcón;0;Almería;0;X
+33;6;Athletic de Bilbao;2;Sevilla;0;1
+33;13;Lugo;1;Extremadura;1;X
+33;15;Barcelona;3;Eibar;0;M0
+36;2;Real Sociedad;2;Athletic de Bilbao;1;1
+36;3;Barcelona;2;Valencia;2;X
+33;11;Mallorca;1;Deportivo;0;1
+33;14;R. Zaragoza;0;Málaga;2;2
+36;5;Villarreal;2;Espanyol;2;X
+36;6;Betis;1;Atlético de Madrid;0;1
+36;1;Levante;0;Getafe;0;X
+36;8;Numancia;3;Lugo;0;1
+36;7;Celta;1;Sevilla;0;1
+36;4;Eibar;3;Girona;0;1
+36;10;Deportivo;0;Tenerife;0;X
+36;11;Mallorca;2;Alcorcón;0;1
+36;9;Córdoba;1;Albacete;3;2
+36;12;R. Oviedo;2;Cádiz;1;1
+36;13;Osasuna;1;Granada;0;1
+36;14;Extremadura;0;Sporting de Gijón;3;2
+36;15;Real Madrid;3;Alavés;0;M0
+37;1;Getafe;3;Celta;1;1
+37;2;Atlético de Madrid;1;Real Madrid;3;2
+37;3;Espanyol;2;Rayo Vallecano;1;1
+37;4;Leganés;3;Betis;0;1
+37;5;Girona;0;Huesca;2;2
+37;6;Valencia;0;Real Sociedad;0;X
+37;7;Athletic de Bilbao;0;Barcelona;0;X
+37;8;Elche;1;R. Oviedo;2;2
+37;9;Lugo;1;R. Zaragoza;2;2
+37;10;Alcorcón;1;Cádiz;2;2
+37;11;Albacete;1;Mallorca;0;1
+37;14;Málaga;0;Las Palmas;0;X
+37;12;Almería;1;Numancia;0;1
+44;1;Alavés;1;Eibar;1;X
+37;15;Sevilla;2;Eibar;2;22
+44;2;Atlético de Madrid;1;Leganés;0;1
+44;4;Celta;0;Betis;1;2
+44;5;Girona;2;Valencia;3;2
+44;6;Levante;0;Villarreal;2;2
+44;7;Sevilla;5;Real Sociedad;2;1
+44;8;Valladolid;1;Real Madrid;4;2
+44;3;Getafe;2;Huesca;1;1
+44;9;C. Gimnastic;1;Albacete;0;1
+44;10;Rayo Majadahonda;2;Alcorcón;0;1
+37;13;Granada;0;Deportivo;1;2
+44;12;Granada;1;R. Zaragoza;0;1
+44;11;Extremadura;3;Córdoba;0;1
+44;13;Tenerife;1;Numancia;1;X
+44;14;Deportivo;0;Las Palmas;1;2
+44;15;Barcelona;3;Rayo Vallecano;1;M1
+38;1;Manchester U.;0;PSG;2;2
+38;4;Ajax;1;Real Madrid;2;2
+38;3;Tottenham;3;B. Dortmund;0;1
+38;5;Bate Borisov;1;Arsenal;0;1
+38;2;Roma;2;Porto;1;1
+38;6;Galatasaray;1;Benfica;2;2
+38;8;Olympiacos;2;Dinamo Kiev;2;X
+38;9;Rennes;3;Betis;3;X
+38;7;Lazio;0;Sevilla;1;2
+38;11;Brugge kV;2;Salzburgo;1;1
+38;13;Sporting Lisboa;0;Villarreal;1;2
+38;10;Rapid Viena;0;Inter;1;2
+38;14;Zürich;1;Nápoles;3;2
+38;15;Malmö FF;1;Chelsea;2;12
+39;2;Rayo Vallecano;0;Atlético de Madrid;1;2
+38;12;Celtic;0;Valencia;2;2
+39;3;Real Sociedad;3;Leganés;0;1
+39;1;Celta;1;Levante;4;2
+39;4;Real Madrid;1;Girona;2;2
+39;7;Betis;1;Alavés;1;X
+39;6;Villarreal;3;Sevilla;0;1
+39;8;R. Zaragoza;0;Albacete;0;X
+39;9;R. Oviedo;1;Alcorcón;0;1
+39;11;Mallorca;3;Lugo;0;1
+39;10;Cádiz;2;Tenerife;0;1
+39;12;Numancia;1;Osasuna;1;X
+39;14;Las Palmas;1;Sporting de Gijón;0;1
+39;15;Barcelona;1;Valladolid;0;10
+39;13;Rayo Majadahonda;0;Málaga;1;2
+34;2;Huesca;0;Atlético de Madrid;3;2
+34;3;Celta;1;Valencia;2;2
+34;1;Real Madrid;2;Sevilla;0;1
+34;5;Villarreal;1;Athletic de Bilbao;1;X
+39;5;Valencia;0;Espanyol;0;X
+34;6;Levante;2;Valladolid;0;1
+34;4;Betis;3;Girona;2;1
+34;8;Almería;0;Cádiz;0;X
+34;7;Rayo Vallecano;2;Real Sociedad;2;X
+34;9;Numancia;3;Córdoba;2;1
+34;12;Sporting de Gijón;2;Alcorcón;0;1
+34;11;Osasuna;2;Mallorca;0;1
+34;14;Extremadura;0;R. Oviedo;2;2
+34;15;Barcelona;3;Leganés;1;M1
+34;10;Málaga;2;Lugo;1;1
+42;1;Espanyol;3;Valladolid;1;1
+42;3;Huesca;2;Sevilla;1;1
+34;13;Deportivo;2;Albacete;0;1
+42;5;Betis;1;Getafe;2;2
+42;6;Real Sociedad;0;Atlético de Madrid;2;2
+42;7;Valencia;2;Athletic de Bilbao;0;1
+42;8;Cádiz;1;Albacete;0;1
+42;9;Mallorca;1;Elche;1;X
+42;10;Numancia;1;Sporting de Gijón;2;2
+42;11;Rayo Majadahonda;0;Granada;3;2
+42;12;R. Oviedo;1;Lugo;1;X
+42;13;Las Palmas;1;Extremadura;1;X
+42;14;R. Zaragoza;1;Almería;2;2
+42;15;Real Madrid;0;Barcelona;1;01
+41;1;Getafe;2;Rayo Vallecano;1;1
+41;2;Sevilla;2;Barcelona;4;2
+42;2;Villarreal;1;Alavés;2;2
+41;3;Alavés;0;Celta;0;X
+41;4;Athletic de Bilbao;1;Eibar;0;1
+42;4;Eibar;1;Celta;0;1
+41;6;Atlético de Madrid;2;Villarreal;0;1
+41;8;Albacete;0;R. Oviedo;0;X
+41;9;C. Gimnastic;2;Cádiz;3;2
+41;10;Alcorcón;2;Las Palmas;0;1
+41;5;Leganés;1;Valencia;1;X
+41;11;Osasuna;1;R. Zaragoza;0;1
+41;7;Valladolid;0;Betis;2;2
+41;12;Sporting de Gijón;2;Rayo Majadahonda;3;2
+41;15;Levante;1;Real Madrid;2;12
+41;13;Almería;3;Córdoba;1;1
+41;14;Málaga;0;Deportivo;0;X
+48;3;Celta;3;Villarreal;2;1
+48;2;Barcelona;2;Espanyol;0;1
+48;4;Alavés;0;Atlético de Madrid;4;2
+48;5;Levante;2;Eibar;2;X
+48;1;Getafe;0;Leganés;2;2
+48;6;Rayo Vallecano;1;Betis;1;X
+48;8;Valladolid;1;Real Sociedad;1;X
+48;7;Sevilla;0;Valencia;1;2
+48;9;Numancia;2;Granada;1;1
+48;10;Albacete;2;Tenerife;2;X
+48;13;R. Oviedo;1;Deportivo;1;X
+48;12;Alcorcón;0;Lugo;0;X
+48;11;Córdoba;3;Mallorca;2;1
+48;15;Real Madrid;3;Huesca;2;M2
+43;1;B. Dortmund;0;Tottenham;1;2
+43;3;Porto;2;Roma;1;1
+43;2;Real Madrid;1;Ajax;4;2
+48;14;Las Palmas;0;Elche;1;2
+43;5;Chelsea;3;Dinamo Kiev;0;1
+43;7;Dinamo Zagreb;1;Benfica;0;1
+43;4;PSG;1;Manchester U.;3;2
+43;9;Nápoles;2;Salzburgo;1;1
+43;6;Rennes;3;Arsenal;1;1
+43;8;Frankfurt;3;Inter;0;X
+43;11;Zenit S. P.;1;Villarreal;3;2
+43;10;Valencia;2;Krasnodar;1;1
+43;13;Tolima;1;Atlético Paranaense;0;1
+43;15;Sevilla;2;S. Praga;2;22
+43;14;Wilstermann;0;Boca Juniors;0;X
+69;1;Bournemouth;1;Sheffield United;1;X
+43;12;San José;0;Flamengo;1;2
+69;3;Crystal Palace;0;Everton;0;X
+69;5;Tottenham;3;Aston Villa;1;1
+69;4;Watford;0;Brighton;3;2
+69;6;Leicester;0;Wolverhampton;0;X
+69;2;Burnley;3;Southampton;0;1
+69;8;Manchester U.;4;Chelsea;0;1
+69;9;Olympique de Marsella;0;Reims;2;2
+69;11;Montpellier;0;Rennes;1;2
+69;10;Dijon;1;Saint Etienne;2;2
+69;13;Brest;1;Toulouse;1;X
+69;7;Newcastle;0;Arsenal;1;2
+69;14;Lille;2;Nantes;1;1
+69;12;Angers;3;Burdeos;1;1
+69;15;PSG;3;Nimes;0;M0
+47;1;Elche;3;Alcorcón;1;1
+47;3;Rayo Majadahonda;4;Numancia;0;1
+47;2;Lugo;0;Albacete;3;2
+47;4;C. Gimnastic;0;Málaga;1;2
+47;7;Sporting de Gijón;1;R. Oviedo;0;1
+47;5;Cádiz;1;Córdoba;1;X
+47;6;Granada;1;Las Palmas;1;X
+47;10;Hungría;2;Croacia;1;1
+47;9;Gales;1;Eslovaquia;0;1
+47;12;Chipre;0;Bélgica;2;2
+47;11;Israel;4;Austria;2;1
+47;13;Eslovenia;1;Ary de Macedonia;1;X
+47;15;España;2;Noruega;1;21
+47;8;Suecia;2;Rumania;1;1
+51;1;Espanyol;2;Alavés;1;1
+51;3;Sevilla;3;Betis;2;1
+51;2;Atlético de Madrid;2;Celta;0;1
+51;5;Athletic de Bilbao;3;Rayo Vallecano;2;1
+47;14;Holanda;2;Alemania;3;2
+51;6;Real Sociedad;1;Eibar;1;X
+51;8;Valencia;3;Levante;1;1
+51;4;Valladolid;2;Getafe;2;X
+51;9;Málaga;1;Extremadura;2;2
+51;11;Albacete;1;Elche;1;X
+51;10;Osasuna;2;Deportivo;1;1
+51;7;Girona;0;Villarreal;1;2
+51;13;Las Palmas;0;Cádiz;3;2
+51;14;R. Zaragoza;0;Alcorcón;2;2
+53;1;Huesca;2;Eibar;0;1
+51;15;Huesca;0;Barcelona;0;00
+53;3;Alavés;0;Barcelona;2;2
+51;12;Numancia;1;Mallorca;1;X
+53;4;Atlético de Madrid;3;Valencia;2;1
+53;6;Espanyol;1;Celta;1;X
+53;5;Leganés;0;Athletic de Bilbao;1;2
+53;8;Sevilla;5;Rayo Vallecano;0;1
+53;2;Valladolid;1;Girona;0;1
+53;9;Real Sociedad;0;Villarreal;1;2
+53;11;Watford;1;Southampton;1;X
+53;12;Tottenham;1;Brighton;0;1
+53;7;Levante;4;Betis;0;1
+53;13;Wolverhampton;3;Arsenal;1;1
+53;15;Manchester U.;0;Manchester City;2;02
+52;1;Celta;2;Girona;1;1
+53;10;Getafe;0;Real Madrid;0;X
+52;2;Eibar;0;Atlético de Madrid;1;2
+52;3;Rayo Vallecano;0;Huesca;0;X
+52;4;Barcelona;2;Real Sociedad;1;1
+52;6;Getafe;3;Sevilla;0;1
+53;14;Ajax;4;SBV Vitesse;2;1
+52;7;Villarreal;2;Leganés;1;1
+52;8;Betis;1;Valencia;2;2
+52;10;Albacete;4;Las Palmas;2;1
+52;9;Lugo;1;Granada;2;2
+52;11;Mallorca;2;Rayo Majadahonda;0;1
+52;12;Cádiz;2;Numancia;1;1
+52;14;Tenerife;1;Almería;3;2
+52;13;Deportivo;1;Extremadura;2;2
+52;15;Real Madrid;3;Athletic de Bilbao;0;M0
+40;2;Liverpool;0;Bayern M.;0;X
+52;5;Levante;2;Espanyol;2;X
+40;4;Schalke;2;Manchester City;3;2
+40;3;Atlético de Madrid;2;Juventus;0;1
+40;6;Villarreal;1;Sporting Lisboa;1;X
+40;7;Valencia;1;Celtic;0;1
+40;5;Sevilla;2;Lazio;0;1
+40;8;Nápoles;2;Zürich;0;1
+40;9;Salzburgo;4;Brugge kV;0;1
+40;10;Leverkusen;1;Krasnodar;1;X
+40;12;Dinamo Kiev;1;Olympiacos;0;1
+40;11;Benfica;0;Galatasaray;0;X
+40;14;Inter;4;Rapid Viena;0;1
+40;1;Lyon;0;Barcelona;0;X
+40;15;Arsenal;3;Bate Borisov;0;M0
+49;2;Villarreal;4;Barcelona;4;X
+49;3;Athletic de Bilbao;3;Levante;2;1
+49;4;Eibar;2;Rayo Vallecano;1;1
+49;5;Huesca;3;Celta;3;X
+49;1;Espanyol;1;Getafe;1;X
+49;6;Valencia;2;Real Madrid;1;1
+49;8;Leganés;1;Valladolid;0;1
+49;9;Real Sociedad;2;Betis;1;1
+49;7;Sevilla;2;Alavés;0;1
+49;10;Cagliari;0;Juventus;2;2
+49;12;Roma;2;Fiorentina;2;X
+49;13;Genoa;0;Inter;4;2
+49;11;Empoli;2;Nápoles;1;1
+49;14;Spal;1;Lazio;0;1
+49;15;Atlético de Madrid;2;Girona;0;20
+46;2;Athletic de Bilbao;2;Atlético de Madrid;0;1
+46;3;Leganés;0;Girona;2;2
+46;1;Huesca;1;Alavés;3;2
+46;4;Eibar;1;Valladolid;2;2
+46;6;Valencia;0;Getafe;0;X
+46;5;Espanyol;0;Sevilla;1;2
+46;8;Betis;1;Barcelona;4;2
+46;7;Villarreal;3;Rayo Vallecano;1;1
+46;9;Alcorcón;1;Tenerife;1;X
+46;11;Córdoba;1;Sporting de Gijón;2;2
+46;10;R. Zaragoza;1;Elche;0;1
+46;13;Osasuna;3;Rayo Majadahonda;0;1
+46;12;Almería;0;Granada;0;X
+46;14;Las Palmas;1;Mallorca;2;2
+40;13;Betis;1;Rennes;3;2
+46;15;Real Madrid;2;Celta;0;20
+50;1;Girona;1;Espanyol;2;2
+50;3;Barcelona;2;Atlético de Madrid;0;1
+50;2;Rayo Vallecano;2;Valencia;0;1
+50;5;Getafe;1;Athletic de Bilbao;0;1
+50;6;Valladolid;0;Sevilla;2;2
+50;8;Celta;3;Real Sociedad;1;1
+50;9;Betis;2;Villarreal;1;1
+50;10;Deportivo;0;Rayo Majadahonda;2;2
+50;11;Granada;1;Málaga;0;1
+50;12;R. Oviedo;1;Las Palmas;1;X
+50;13;Lugo;2;Osasuna;2;X
+50;14;Elche;1;Córdoba;0;1
+50;15;Real Madrid;2;Eibar;1;21
+54;1;Athletic de Bilbao;1;Alavés;1;X
+54;2;Leganés;0;Celta;0;X
+54;3;Barcelona;1;Levante;0;1
+54;4;Valencia;0;Eibar;1;2
+50;4;Alavés;1;Leganés;1;X
+54;6;Real Sociedad;2;Getafe;1;1
+54;7;Villarreal;1;Huesca;1;X
+54;8;Rayo Vallecano;1;Real Madrid;0;1
+54;9;Málaga;0;Mallorca;1;2
+54;10;Osasuna;2;Albacete;0;1
+54;11;Almería;0;R. Oviedo;1;2
+54;12;Extremadura;1;Tenerife;0;1
+54;13;Rayo Majadahonda;1;Cádiz;1;X
+54;14;Las Palmas;4;Lugo;1;1
+50;7;Levante;2;Huesca;2;X
+54;15;Atlético de Madrid;1;Valladolid;0;10
+54;5;Girona;1;Sevilla;0;1
+45;1;Bayern M.;1;Liverpool;3;2
+45;4;Dinamo Kiev;0;Chelsea;5;2
+45;3;Juventus;3;Atlético de Madrid;0;1
+45;5;Salzburgo;3;Nápoles;1;1
+45;2;Manchester City;7;Schalke;0;1
+45;6;Krasnodar;1;Valencia;1;X
+45;7;Inter;3;Frankfurt;0;2
+45;8;Benfica;4;Dinamo Zagreb;3;1
+45;11;Villarreal;3;Zenit S. P.;0;1
+45;12;Boca Juniors;3;Tolima;1;1
+45;10;Arsenal;2;Rennes;1;1
+45;9;S. Praga;3;Sevilla;0;1
+45;14;U. Católica;5;Rosario Central;1;1
+56;1;Atlético de Madrid;1;Sevilla;1;X
+45;13;Flamengo;2;Ldu Quito;1;1
+45;15;Barcelona;NaN;Lyon;NaN;M1
+56;4;Betis;2;Huesca;1;1
+56;5;Girona;1;Levante;2;2
+56;6;Leganés;0;Espanyol;2;2
+56;7;Rayo Vallecano;1;Valladolid;2;2
+56;8;Real Sociedad;3;Real Madrid;1;1
+56;9;Villarreal;1;Eibar;0;1
+56;10;Almería;5;Elche;3;1
+56;11;Deportivo;1;Cádiz;1;X
+56;3;Barcelona;2;Getafe;0;1
+56;12;Extremadura;0;R. Zaragoza;3;2
+56;14;Sporting de Gijón;0;Lugo;0;X
+56;13;Rayo Majadahonda;2;Albacete;3;2
+55;1;Levante;4;Rayo Vallecano;1;1
+56;2;Athletic de Bilbao;3;Celta;1;1
+55;2;Espanyol;3;Atlético de Madrid;0;1
+55;4;Celta;2;Barcelona;0;1
+56;15;Valencia;3;Alavés;1;M1
+55;3;Alavés;0;Real Sociedad;1;2
+55;7;Valladolid;1;Athletic de Bilbao;0;1
+55;6;Eibar;1;Betis;0;1
+55;5;Getafe;2;Girona;0;1
+55;8;Huesca;2;Valencia;6;2
+55;10;R. Zaragoza;0;Deportivo;1;2
+55;12;Mallorca;2;Sporting de Gijón;1;1
+55;9;Alcorcón;0;Osasuna;0;X
+55;11;Tenerife;2;Las Palmas;1;1
+55;15;Real Madrid;3;Villarreal;2;M2
+55;13;Albacete;0;Numancia;0;X
+57;2;Celta;2;Rayo Vallecano;2;X
+57;3;Eibar;2;Barcelona;2;X
+55;14;R. Oviedo;1;Granada;1;X
+57;5;Getafe;2;Villarreal;2;X
+57;4;Espanyol;2;Real Sociedad;0;1
+57;7;Levante;2;Atlético de Madrid;2;X
+57;1;Alavés;2;Girona;1;1
+57;6;Huesca;2;Leganés;1;1
+57;8;Sevilla;2;Athletic de Bilbao;0;1
+57;9;Valladolid;0;Valencia;2;2
+57;11;Las Palmas;3;Rayo Majadahonda;2;1
+57;10;Alcorcón;0;Extremadura;1;2
+57;13;Mallorca;1;Almería;0;1
+57;15;Real Madrid;0;Betis;2;02
+12;1;Osasuna;3;Córdoba;1;1
+57;14;R. Oviedo;1;Numancia;0;1
+12;3;Numancia;1;R. Zaragoza;0;1
+12;4;Tenerife;0;Lugo;0;X
+12;2;Almería;3;Las Palmas;0;1
+12;5;Rayo Majadahonda;1;R. Oviedo;0;1
+12;7;Granada;1;Mallorca;0;1
+12;6;C. Gimnastic;1;Alcorcón;3;2
+12;9;Bulgaria;2;Chipre;1;1
+57;12;Lugo;1;Deportivo;0;1
+12;10;Holanda;3;Alemania;0;1
+12;11;Irlanda;0;Dinamarca;0;X
+12;12;Rumania;0;Serbia;0;X
+12;8;Noruega;1;Eslovenia;0;1
+12;15;Sporting de Gijón;1;Reus Deport.;1;11
+12;13;Rusia;2;Turquia;0;1
+58;1;Rayo Majadahonda;0;Córdoba;0;X
+58;2;Sporting de Gijón;0;Albacete;2;2
+58;4;Almería;0;Alcorcón;0;X
+58;5;C. Gimnastic;3;Elche;3;X
+58;3;Osasuna;2;Las Palmas;0;1
+58;7;Granada;1;Cádiz;1;X
+58;8;Extremadura;0;Lugo;0;X
+58;9;Sampdoria;2;Juventus;0;1
+58;10;Torino;3;Lazio;1;1
+58;11;Spal;2;Milan;3;2
+58;12;Bolonia;3;Nápoles;2;1
+58;13;Roma;2;Parma;1;1
+58;6;Tenerife;2;R. Oviedo;1;1
+12;14;Polonia;0;Italia;1;2
+58;14;Atalanta;3;Sassuolo;1;1
+59;1;Alcorcón;0;C. Gimnastic;1;2
+59;2;Las Palmas;0;Almería;0;X
+58;15;Inter;2;Empoli;1;21
+59;4;Cádiz;1;Extremadura;0;1
+59;6;Lugo;1;Tenerife;0;1
+59;5;Elche;1;Deportivo;0;1
+59;3;Albacete;1;Málaga;0;1
+59;9;R. Zaragoza;0;Numancia;1;2
+59;8;R. Oviedo;1;Rayo Majadahonda;0;1
+59;10;At. Baleares;1;Racing Ferrol;1;X
+59;11;Recreativo;1;CF Fuenlabrada;1;X
+59;13;Mirandés;2;AT. Madrid B;1;1
+59;14;UD Logroñés;3;CD Badajoz;3;X
+59;7;Mallorca;0;Granada;0;X
+59;15;Tottenham;0;Liverpool;2;02
+59;12;Cartagena;2;RM Castilla;0;1
+62;3;Colombia;1;Paraguay;0;1
+62;2;Qatar;0;Argentina;2;2
+62;4;Bélgica S21;1;Italia S21;3;2
+62;6;Austria S21;1;Alemania S21;1;X
+62;7;Dinamarca S21;2;Serbia S21;0;1
+62;8;Croacia S21;3;Inglaterra S21;3;X
+62;9;Francia S21;0;Rumania S21;0;X
+62;10;Cincinnati;0;LA Galaxy;2;2
+62;11;FC Dallas;3;Toronto;0;1
+62;12;Chicago Fire;1;Real Salt Lake;1;X
+62;1;Bolivia;1;Venezuela;3;2
+62;13;Portland Timbers;4;Houston Dynamo;0;1
+62;5;España S21;5;Polonia S21;0;1
+62;14;Columbus Crew;0;Kansas City;1;2
+62;15;Perú;0;Brasil;5;0M
+60;1;Almería;3;Albacete;0;1
+60;4;C. Gimnastic;1;Lugo;1;X
+60;2;Deportivo;2;Córdoba;0;1
+60;6;Numancia;1;Las Palmas;1;X
+60;3;Extremadura;0;Mallorca;0;X
+60;5;Granada;2;Alcorcón;1;1
+60;8;Sporting de Gijón;1;Cádiz;0;1
+60;7;Osasuna;1;R. Oviedo;0;1
+60;9;Tenerife;1;R. Zaragoza;0;1
+60;12;Cruzeiro;0;Corinthians;0;X
+60;13;Palmeiras;1;Atlético Paranaense;0;1
+60;11;Gremio;1;Fortaleza;0;1
+60;15;Málaga;3;Elche;0;M0
+60;14;Avaí;0;Sao Paulo;0;X
+61;1;Venezuela;0;Perú;0;X
+61;2;Argentina;0;Colombia;2;2
+61;4;Uruguay;4;Denia;0;1
+61;5;Polonia S21;3;Bélgica S21;2;1
+61;6;Italia S21;3;España S21;1;1
+61;3;Paraguay;2;Qatar;2;X
+61;7;Serbia S21;0;Austria S21;2;2
+61;8;Alemania S21;3;Dinamarca S21;1;1
+61;10;Suecia FEM;5;Tailandia FEM;1;1
+61;11;EE.UU FEM;3;Chile FEM;0;1
+60;10;Ceara;0;Bahia;0;X
+61;9;Canadá FEM;2;Nueva Zelanda FEM;0;1
+61;14;Corea FEM;1;Noruega FEM;2;2
+61;12;Sudafrica FEM;0;Alemania FEM;4;2
+61;13;Nigeria FEM;0;Francia FEM;1;2
+63;2;Camerun;0;Ghana;0;X
+61;15;China FEM;0;España FEM;0;00
+63;3;Benin;0;Guinea-Bisau;0;X
+63;5;Burundi;0;Guinea;2;2
+63;4;Madagascar;2;Nigeria;0;1
+63;7;Ostersunds;0;Göteborg;0;X
+63;6;Zimbabue;0;RD Congo;4;2
+63;8;Falkenbergs;2;Elfsborg;1;1
+63;10;Norrkoping;0;Sirius;1;2
+63;11;Atlanta United;2;Montreal Impact;1;1
+63;12;New York City;4;Philadelphia Union;2;1
+63;13;Columbus Crew;0;Orlando City;2;2
+63;14;San José;3;LA Galaxy;0;1
+63;15;Uganda;0;Egipto;2;02
+64;1;Kalmar FF;0;Aik;1;2
+64;2;Göteborg;2;Sundsvall;1;1
+64;3;Sirius;1;Ostersunds;1;X
+64;4;Malmö FF;2;Orebro SK;1;1
+64;5;Norrkoping;2;Hacken;1;1
+64;6;Hammarby;6;Falkenbergs;2;1
+64;7;Philadelphia Union;0;Orlando City;0;X
+64;8;Cincinnati;3;Houston Dynamo;2;1
+63;1;Mauritania;0;Angola;0;X
+64;9;Columbus Crew;1;Seattle Sounders;2;2
+64;10;Montreal Impact;2;Minnesota United;3;2
+64;12;San José;1;Real Salt Lake;0;1
+63;9;Aik;0;Malmö FF;0;X
+64;11;Kansas City;1;Chicago Fire;0;1
+64;14;New York City;0;Portland Timb.;0;2
+67;1;Palmeiras;1;Vasco da Gama;1;X
+64;13;Atlanta United;3;New York Rb;3;X
+67;2;Cruzeiro;0;Atlético Paranaense;2;2
+67;4;Internacional;1;Ceara;0;1
+64;15;Los Angeles FC;6;Vancouver;1;M1
+67;6;Flamengo;3;Botafogo;2;1
+67;7;New England;4;Orlando City;1;1
+67;8;New York Rb;2;Columbus Crew;3;2
+67;5;Chapecoense;0;Bahia;0;X
+67;10;FC Dallas;0;Real Salt Lake;0;X
+67;11;Houston Dynamo;0;Seattle Sounders;1;2
+67;12;Minnesota United;0;Vancouver;0;X
+67;13;Montreal Impact;4;Philadelphia Union;0;1
+67;3;Fluminense;1;Sao Paulo;2;2
+67;14;Portland Timb.;4;LA Galaxy;0;1
+67;9;Chicago Fire;0;Dc. United;0;X
+67;15;Santos;3;Avaí;1;M1
+68;1;Barnsley;1;Fulham;0;1
+68;2;Blackburn Rovers;1;Charlton;2;2
+68;3;Brentford;0;Birmingham;1;2
+68;5;Reading;1;Sheffield Wednesday;3;2
+68;6;Stoke City;1;Queens Park Rangers;2;2
+68;4;Millwall;1;Preston;0;1
+68;7;Swansea City;2;Hull City;1;1
+68;9;Nottingham;1;West Bromwich;2;2
+68;8;Wigan Athletic;3;Cardiff City;2;1
+68;11;SBV Vitesse;2;Ajax;2;X
+68;10;Bristol City;1;Leeds;3;2
+68;13;Heracles;0;Heerenveen;4;2
+68;14;Az Alkmaar;4;Fortuna Sittard;0;1
+68;15;Feyenoord;2;Sp Rotterdam;2;22
+65;2;Bahia;0;Santos;1;2
+65;1;Gremio;2;Vasco da Gama;1;1
+65;4;Fortaleza;2;Avaí;0;1
+65;3;Sao Paulo;1;Palmeiras;1;X
+65;5;Atlético Paranaense;1;Internacional;0;1
+65;7;Cruzeiro;0;Botafogo;0;X
+68;12;Twente;1;PSV;1;X
+65;8;Montreal Impact;0;Toronto;2;2
+65;9;Orlando City;1;Columbus Crew;0;1
+65;11;Minnesota United;1;FC Dallas;0;1
+65;12;Real Salt Lake;4;Philadelphia Union;0;1
+65;6;Corinthians;1;Csa;0;1
+65;15;Flamengo;6;Goiás;1;M1
+65;14;Portland Timb.;2;Colorado Rapids;2;X
+66;1;Vasco da Gama;2;Fluminense;1;1
+66;2;Bahia;0;Cruzeiro;0;X
+66;3;Csa;0;Atlético Paranaense;4;2
+65;13;Vancouver;0;Kansas City;3;2
+65;10;Chicago Fire;1;Cincinnati;2;2
+66;6;Atletico Mineiro;2;Fortaleza;2;X
+66;5;Botafogo;0;Santos;1;2
+66;7;Corinthians;1;Flamengo;1;X
+66;9;Philadelphia Union;2;Chicago Fire;0;1
+66;4;Internacional;1;Gremio;1;X
+66;8;Columbus Crew;2;Montreal Impact;1;1
+66;12;Colorado Rapids;1;New York City;2;2
+66;13;Real Salt Lake;1;Minnesota United;1;X
+66;11;Kansas City;0;FC Dallas;2;2
+66;15;Ceara;2;Palmeiras;0;20
+66;14;Vancouver;1;San José;3;2
+66;10;Toronto;1;Houston Dynamo;3;2

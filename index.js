@@ -11,9 +11,10 @@ if(!fileExists('./data.csv')){
   }); 
 }
 
-
-getJornada(1)
-
+for(let i = 1; i <= 69; i++){
+  console.log("Jornada "+i)
+  getJornada(i)
+}
 
 function getJornada(jornada){
     axios.get('https://www.combinacionganadora.com/quiniela/2018-2019/jornada-'+jornada+'/').then((response) => {
@@ -23,10 +24,10 @@ function getJornada(jornada){
       let match = $(matchTable[i]).find('td')
       let result = $(matchTable[i]).find('td ul li.active')
       let reg = jornada+';'+parseInt($(match[0]).text())+';'+$(match[1]).text()+';'+parseInt($(match[3]).text())+';'+$(match[7]).text()+';'+parseInt($(match[5]).text())+';'+result.text()
-      console.log(reg)
+      // console.log(reg)
       fs.appendFile('data.csv', reg+"\n", function (err) {
         if (err) throw err;
-        console.log('Registro añadido ['+reg+']');
+        // console.log('Registro añadido ['+reg+']');
       }); 
     }
   })
