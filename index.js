@@ -26,7 +26,7 @@ function getJornada(jornada){
       let result = $(matchTable[i]).find('td ul li.active')
       let reg = date.text()+';'+jornada+';'+parseInt($(match[0]).text())+';'+$(match[1]).text()+';'+parseInt($(match[3]).text())+';'+$(match[7]).text()+';'+parseInt($(match[5]).text())+';'+result.text()
       // console.log(reg)
-      fs.appendFile('data.csv', reg+"\n", function (err) {
+      fs.appendFile('data.csv', reg+"\n", 'utf8',function (err) {
         if (err) throw err;
         // console.log('Registro añadido ['+reg+']');
       }); 
