@@ -6,7 +6,7 @@ const fs = require('fs')
 const temporadas = [['2014-2015', 56], ['2015-2016', 70], ['2016-2017', 67], ['2017-2018', 67], ['2018-2019', 69]]
 let response, $, matchtable, date
 
-async function getJoranda() {
+function getJornada() {
   try {
     temporadas.forEach(async function (temporada){  
       for(let j = 1; j <= temporada[1]; j++){
@@ -17,7 +17,7 @@ async function getJoranda() {
         for (let i = 0; i < matchTable.length; i++){
           let match = $(matchTable[i]).find('td')
           let result = $(matchTable[i]).find('td ul li.active')
-          let reg = date.text()+';2014-2015;'+j+';'+parseInt($(match[0]).text())+';'+$(match[1]).text()+';'+parseInt($(match[3]).text())+';'+$(match[7]).text()+';'+parseInt($(match[5]).text())+';'+result.text()
+          let reg = date.text()+';'+temporada[0]+';'+j+';'+parseInt($(match[0]).text())+';'+$(match[1]).text()+';'+parseInt($(match[3]).text())+';'+$(match[7]).text()+';'+parseInt($(match[5]).text())+';'+result.text()
           console.log(reg)
           fs.appendFile('data.csv', reg+"\n", 'utf8',function(err) {
             if (err) throw err;
@@ -32,7 +32,7 @@ async function getJoranda() {
   }
 }
 
-getJoranda()
+getJornada()
 
 
 
